@@ -1,4 +1,6 @@
 #!/bin/sh
+# author: xxyangyoulin
+# url: https://github.com/xxyangyoulin/polybar_easy_script
 
 LOG=$EASY_SH_PATH/log/juhe-weather.log;
 CACHE=$EASY_SH_PATH/cache/juhe-weather.cache;
